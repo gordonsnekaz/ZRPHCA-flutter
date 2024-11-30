@@ -1,12 +1,10 @@
 import 'package:flutter/material.dart';
 import 'package:health_care_advisor/hospitals/hospitals_screen.dart';
-import 'package:health_care_advisor/hospitals/hospitals_table.dart';
 import 'package:health_care_advisor/news/news_screen.dart';
 import 'package:health_care_advisor/pharmacies/pharmacies_screen.dart';
 import 'package:health_care_advisor/theme/colors.dart';
 import 'package:health_care_advisor/views/dialogs/logout_dialog.dart';
 import 'package:health_care_advisor/views/user/account_statement_screen.dart';
-import 'package:health_care_advisor/profile/profile_screen.dart';
 import 'package:health_care_advisor/views/utilities/package_card.dart';
 import 'package:health_care_advisor/views/utilities/side_drawer.dart';
 import 'package:persistent_bottom_nav_bar/persistent_bottom_nav_bar.dart';
